@@ -172,5 +172,5 @@ All preprocessing, modeling choices, experiments, and reported results were exec
 
 ## 11. Author
 - **Name:** Rebecca Elhaj  
-- **Course:** Machine Learning II (Advanced Topics in ML / Data Mining)  
+- **Course:** Advanced Topics in ML / Data Mining  
 - **Institution:** Ariel University
