@@ -88,6 +88,8 @@ Because defaults are rare, evaluation emphasizes minority-class detection and ra
 **Selected final model:** **Gradient Boosting (Baseline)**  
 This model provides the best overall balance between precision and recall (highest F1 in the main comparison), while maintaining excellent ranking performance (ROC-AUC and PR-AUC).  
 The SMOTE variant improves recall and slightly improves PR-AUC, but at the cost of lower precision and slightly lower F1; therefore, the baseline model is selected for robustness and simplicity.
+#### Performance Highlight (Final Model)
+The final **Gradient Boosting (Baseline)** model achieved **F1 = 0.833** and **Recall = 0.801** for the default class on the held-out test set, with **Precision = 0.868**. Ranking performance was excellent (**ROC-AUC = 0.979**, **PR-AUC = 0.873**), supporting risk-based screening and prioritization.
 
 ---
 
