@@ -1,5 +1,5 @@
-# SBA 7(a) Loan Default Prediction + Portfolio Segmentation  
-**Machine Learning II – Course Project**
+# SBA 7(a) Loan Default Prediction 
+**Advanced Topics in Machine Learning – Course Project**
 
 This repository contains an end-to-end machine learning pipeline for **SBA 7(a) loan default prediction** (supervised learning) and **portfolio segmentation** (unsupervised learning) using the SBA 7(a) FOIA dataset (FY2020–Present) retrieved from **data.gov**.
 
