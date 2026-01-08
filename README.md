@@ -42,7 +42,7 @@ A recommended structure (adapt if your repo differs):
 ```
 .
 ├── notebooks/
-│   └── SBA_project_2.ipynb
+│   └── SBA_project.ipynb
 ├── data/
 │   └── foia-7a-fy2020-present-asof-250930.csv   (may be excluded from Git if too large)
 ├── figures/
@@ -132,7 +132,7 @@ jupyter notebook
 
 Open:
 
-- `notebooks/SBA_project_2.ipynb`
+- `notebooks/SBA_project.ipynb`
 
 #### Reproducibility
 - The notebook uses a fixed `RANDOM_STATE`.
@@ -168,6 +168,6 @@ The notebook produces:
 
 ## 10. Author
 
-- **Name:** Your Name  
-- **Course:** Machine Learning II (Advanced Topics in ML / Data Mining)  
-- **Institution:** Ariel University (update if needed)
+- **Name:** Rebecca Elhaj
+- **Course:** Advanced Topics in Machine Learning / Data Mining  
+- **Institution:** Ariel University 
